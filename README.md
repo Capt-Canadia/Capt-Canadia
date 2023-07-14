@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Capt-Canadia
 - 👀 I’m interested in game design in python.
 - 🌱 I’m currently learning how to use my laser cutter.
-- 💞️ I’m looking to collaborate on laser cutting design ideas.
+- 💞️ I’m looking to collaborate on laser cutting teaching and design ideas.
 - 📫 How to reach me davidcurtin@duck.com
 
 <!---
